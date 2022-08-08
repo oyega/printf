@@ -1,5 +1,5 @@
 # printf
-A simple printf function built by Caleb Nyong  and Johnel Okon for Alx software Engineering School.
+A simple printf function built by Oyekunle Gbenga Samuel and Oyekunle Tomide John for Alx software Engineering School.
 
 #Welcome
 
